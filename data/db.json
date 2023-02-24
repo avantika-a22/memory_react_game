@@ -1,0 +1,15 @@
+{
+    "blogs" :[ {
+        "title" : "I am Lerning React" ,
+        "body" : "Its my learning phase ",
+        "author" : "Avantika",
+         "id" : 1
+    } ,
+    {
+        "title" : "I am Lerning React" ,
+        "body" : "Its my learning phase ",
+        "author" : "Yash",
+         "id" : 2
+    }
+    ]
+}
